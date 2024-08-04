@@ -101,6 +101,7 @@ header nav ul a {
   line-height: var(--btntextlineheight);
   border: none;
   min-height: 48px;
+  cursor: pointer;
   min-width: 256px;
   font-weight: bold;
   border-radius: 5px;
@@ -166,6 +167,7 @@ header nav ul a {
   border: none;
   padding: 8px 0px;
   min-height: 10px;
+  cursor: pointer;
   font-weight: bold;
   border-radius: 5px;
 }
