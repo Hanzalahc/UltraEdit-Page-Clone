@@ -1,2 +1,2 @@
 # UltraEdit-Page-Clone
-i have make a clone of the ultraedit website download page. I have used vanilla HTML &amp; CSS for this to improve my skills. It's mobile responsive
+i have make a clone of the ultraedit website download page. I have used vanilla HTML &amp; CSS for this to improve my skills. It's responsive on mobile devices, tablets, and desktops.
